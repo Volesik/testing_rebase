@@ -16,6 +16,7 @@ namespace rebaseApi.Seeding
             yield return new Item { Id = 8, Name = "Name8", Email = "email8@fake.com" };
             yield return new Item { Id = 9, Name = "Name9", Email = "email9@fake.com" };
             yield return new Item { Id = 10, Name = "Name10", Email = "email10@fake.com" };
+            yield return new Item { Id = 11, Name = "Name11", Email = "email11@fake.com" };
         }
     }
 }
